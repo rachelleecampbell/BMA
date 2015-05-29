@@ -1,7 +1,7 @@
 @media only screen and (max-width: 1000px){
 				.header_bottom,
 		nav.mobile_menu{
-				background-color: #060a27 !important;
+				background-color: #222222 !important;
 		}
 	}
 @media only screen and (min-width: 480px) and (max-width: 768px){

@@ -527,7 +527,7 @@ nav.mobile_menu ul li.current-menu-item > a{
 	@media only screen and (max-width: 1000px){
 		.header_bottom,
 		nav.mobile_menu{
-			background-color: #060a27 !important;
+			background-color: #222222 !important;
 		}
 	}
 	#respond textarea,
